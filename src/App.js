@@ -32,10 +32,10 @@ function App() {
 
   return (
     <div className="App">
-      <h1>ImText</h1>
-      <p>Gets words in image!</p>
+      <h1>Image To Text</h1>
+      <p>将小票转化成文字信息</p>
       <div className="input-wrapper">
-        <label htmlFor="upload">Upload Image</label>
+        <label htmlFor="upload">上传图片</label>
         <input type="file" id="upload" accept='image/*' onChange={handleChangeImage} />
       </div>
 

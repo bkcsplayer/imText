@@ -7926,7 +7926,7 @@ terser@^5.0.0, terser@^5.10.0, terser@^5.7.2:
 
 tesseract.js-core@^2.2.0:
   version "2.2.0"
-  resolved "https://registry.yarnpkg.com/tesseract.js-core/-/tesseract.js-core-2.2.0.tgz#6ef78051272a381969fac3e45a226e85022cffef"
+  resolved "https://registry.npmmirror.com/tesseract.js-core/-/tesseract.js-core-2.2.0.tgz#6ef78051272a381969fac3e45a226e85022cffef"
   integrity sha512-a8L+OJTbUipBsEDsJhDPlnLB0TY1MkTZqw5dqUwmiDSjUzwvU7HWLg/2+WDRulKUi4LE+7PnHlaBlW0k+V0U0w==
 
 tesseract.js@^2.1.5:
